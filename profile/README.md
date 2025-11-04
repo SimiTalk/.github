@@ -1,55 +1,53 @@
-<h1 align="center">👋 Hi, we are <span style="color:#0084ff;">SimiTalk Team</span></h1>
-
-<p align="center">
-  <a href="https://www.simitalk.top" target="_blank">
-    <img src="https://img.shields.io/badge/Website-simitalk.top-blue?style=flat-square&logo=google-chrome" />
-  </a>
-  <img src="https://img.shields.io/badge/Language-JavaScript%20|%20React%20Native%20|%20Electron-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Community%20|%20Communication%20|%20Collaboration-brightgreen?style=flat-square" />
-</p>
+# 👋 你好，我们是 SimiTalk 团队 | Hello, we are the SimiTalk Team
 
 ---
 
-### 💡 About Us
+## 💡 我们的理念 | Our Philosophy
 
-**SimiTalk** 是一款面向专业群体与组织的新一代 **社区协作与信息交流平台**。  
-我们相信 —— 沟通应当安全、可控、有温度。  
-在这里，每一个社区都能拥有自己的空间、规则与节奏。  
+我们正在构建 **SimiTalk** —— 一个为专业群体与组织打造的 **新一代社区协作平台**。
+在这里，沟通不仅是交流，更是**信息的沉淀与关系的重构**。
 
-> “让沟通回归秩序与信任，让信息沉淀为价值。”
+我们相信：
+- 有效沟通应当是**清晰与可控**的；
+- 社区应当**沉淀价值**，而非被算法淹没；
+- 平台应当**服务信任**，而非制造噪音。
 
----
-
-### 🚀 What We’re Building
-
-- 🌍 **新型社区协作平台** —— 连接人、内容与知识  
-- 🧠 **信息沉淀与结构化管理** —— 让群聊不再遗忘  
-- 🔐 **安全与私密** —— 信息仅属于使用者  
-- 🧩 **灵活开放的结构** —— 为团队、创作者与品牌而生  
+> “让沟通回归秩序与信任，让社区成为知识的容器。”
 
 ---
 
-### 🧭 Our Vision
+## 🚀 我们在做什么 | What We Build
 
-> 让每个群体拥有自己的数字领地，  
-> 让每一次交流，都能留下价值。
+SimiTalk 专注于为社群、组织、创作者与品牌
+提供一个稳定、安全、可扩展的数字协作空间。
 
-SimiTalk 不只是社交工具，  
-而是一种 **更高效、更可信、更人性的沟通方式。**
+- 🧩 **社区协作引擎**：群组、内容、任务、活动一体化管理
+- 🔐 **安全与隐私保护**：数据加密、权限清晰、资料可控
+- 🧠 **信息沉淀体系**：让讨论转化为可管理的知识资产
+- 🌍 **多场景适配**：支持企业、兴趣、教育、研究等多类型社区
 
 ---
 
-### 🤝 Connect With Us
+## 🧭 我们的愿景 | Our Vision
 
-🌐 官网：[https://www.simitalk.top](https://www.simitalk.top)  
-💌 欢迎合作、交流与建议，一起重构数字时代的信任。
+> 构建一个真正属于用户的、
+> 可掌控、可沉淀、可信任的社交生态。
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simitalk-team&color=blue&style=flat-square" alt="profile views" />
-</p>
+SimiTalk 不追求流量，而追求**真实连接**；
+不迎合算法，而尊重**沟通的深度与温度**。
+我们希望成为那个安静但有力量的平台——
+让沟通重新变得有意义。
+
+---
+
+## 🌱 联系我们 | Connect With Us
+
+- 🌐 官网 | Website：[https://www.simitalk.top](https://www.simitalk.top)
+- 💬 加入我们 | Join us：一起探索下一代社交与协作的可能性
 
 ---
 
 <p align="center">
-  <b>✨ SimiTalk · Make Communication Trustworthy ✨</b>
+  <b>SimiTalk · Make Communication Trustworthy</b><br>
+  <sub>让每一次交流，都能留下价值。</sub>
 </p>
