@@ -1,83 +1,55 @@
-# 🌐 SimiTalk —— 重构信任的新一代社区平台
+<h1 align="center">👋 Hi, we are <span style="color:#0084ff;">SimiTalk Team</span></h1>
 
-> 官网：[https://www.simitalk.top](https://www.simitalk.top)
-
-SimiTalk 是一款面向专业群体与组织的新一代 **社区协作与信息交流平台**。  
-我们希望，让沟通不再漂浮于碎片化的聊天记录中，而能沉淀为可管理、可复用的知识资产。
-
----
-
-## 💡 我们的理念：让沟通变得更有价值
-
-在信息过载与算法噪音的时代，**“有效沟通”** 正变得稀缺。  
-SimiTalk 的理念是：让信息安全、讨论真实、内容沉淀，  
-让每一个社区都能在自己的节奏中生长。
-
-我们相信：
-- 沟通应当是可控的，而非被平台算法操控；  
-- 社区应当是沉淀的，而非瞬息即逝的聊天流；  
-- 成员应当是平等的，而非被流量左右的观众。  
-
-SimiTalk，让沟通回归**秩序与信任**。
+<p align="center">
+  <a href="https://www.simitalk.top" target="_blank">
+    <img src="https://img.shields.io/badge/Website-simitalk.top-blue?style=flat-square&logo=google-chrome" />
+  </a>
+  <img src="https://img.shields.io/badge/Language-JavaScript%20|%20React%20Native%20|%20Electron-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Community%20|%20Communication%20|%20Collaboration-brightgreen?style=flat-square" />
+</p>
 
 ---
 
-## 🧩 我们在做什么
+### 💡 About Us
 
-SimiTalk 是一个融合了 **即时通讯 + 社区管理 + 内容协作** 的平台，  
-为组织、创作者、品牌、团队提供稳定、安全、可扩展的社交与协作基础。
+**SimiTalk** 是一款面向专业群体与组织的新一代 **社区协作与信息交流平台**。  
+我们相信 —— 沟通应当安全、可控、有温度。  
+在这里，每一个社区都能拥有自己的空间、规则与节奏。  
 
-### 🔐 安全可信
-- 私密群组、独立空间、信息加密传输；
-- 不对外暴露用户关系链；
-- 社区资料可控、可沉淀。
-
-### 🌍 社区为中心
-- 一人一社区：每位用户都可以创建自己的独立社区；
-- 群组、帖子、活动、资源统一管理；
-- 公域与私域一体化，兼顾传播与组织。
-
-### 🧠 信息沉淀
-- 讨论可结构化归档；
-- 内容可分类、搜索、检索；
-- 支持知识型、项目型社区的长期运营。
-
-### 🧭 平衡开放与秩序
-- 社区规则由创建者自定义；
-- 成员身份与权限清晰；
-- 平台为自治提供工具，而非控制内容。
+> “让沟通回归秩序与信任，让信息沉淀为价值。”
 
 ---
 
-## 🏗️ 我们的愿景：让每一个群体拥有自己的“数字领地”
+### 🚀 What We’re Building
 
-我们希望，SimiTalk 不只是一个社交工具，  
-而是一个让**团队协作更高效、社群运营更长久、信息更可信**的数字空间。
-
-在这里，你可以：
-- 搭建企业内部沟通社区；  
-- 运营兴趣社群、活动组织；  
-- 管理创作者粉丝与付费会员；  
-- 建立可信的信息与关系网络。
+- 🌍 **新型社区协作平台** —— 连接人、内容与知识  
+- 🧠 **信息沉淀与结构化管理** —— 让群聊不再遗忘  
+- 🔐 **安全与私密** —— 信息仅属于使用者  
+- 🧩 **灵活开放的结构** —— 为团队、创作者与品牌而生  
 
 ---
 
-## 🚀 为什么选择 SimiTalk
+### 🧭 Our Vision
 
-- **更专业的社交逻辑** —— 不追热点，不打扰，只服务真实关系；
-- **更高效的社区协作** —— 群、内容、任务、活动一体化；
-- **更持久的内容价值** —— 信息不淹没，知识可沉淀；
-- **更安全的生态** —— 信息不外泄、社群自主可控。
+> 让每个群体拥有自己的数字领地，  
+> 让每一次交流，都能留下价值。
 
----
-
-## 🌱 加入我们
-
-- 官网：[https://www.simitalk.top](https://www.simitalk.top)  
-- 欢迎体验 SimiTalk，创建你的第一个社区  
-- 让每一次交流，都有留下的意义  
+SimiTalk 不只是社交工具，  
+而是一种 **更高效、更可信、更人性的沟通方式。**
 
 ---
 
-> “社交的未来，不是喧嚣，而是信任与共识。”  
-> —— SimiTalk 团队
+### 🤝 Connect With Us
+
+🌐 官网：[https://www.simitalk.top](https://www.simitalk.top)  
+💌 欢迎合作、交流与建议，一起重构数字时代的信任。
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simitalk-team&color=blue&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+<p align="center">
+  <b>✨ SimiTalk · Make Communication Trustworthy ✨</b>
+</p>
